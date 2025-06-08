@@ -1,0 +1,2 @@
+function t(a,e){return{description:"We builds blockchain infrastructure that automates how businesses run \u2014 securely and at scale",favicon:"https://framerusercontent.com/assets/OhBB1EQZKcpflthbNCBY1sUsoC8.png",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/pSb4dhnZ9WEeKKs4KZwotpK22RI.png",title:"URZA LABS - blockchain software for everyone"}}export{t as a};
+//# sourceMappingURL=chunk-4AKJZEMT.mjs.map

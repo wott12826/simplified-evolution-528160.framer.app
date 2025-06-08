@@ -1,136 +1,136 @@
 Uri: https://fonts.gstatic.com/s/outfit/v14/QGYvz_MVcBeNP4NJtEtq.woff2
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\s\outfit\v14\QGYvz_MVcBeNP4NJtEtq-1.woff2
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\s\outfit\v14\QGYvz_MVcBeNP4NJtEtq-2.woff2
 Content Type: font/woff2
 
 Uri: https://fonts.gstatic.com/s/outfit/v14/QGYvz_MVcBeNP4NJuktqQ4E.woff2
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\s\outfit\v14\QGYvz_MVcBeNP4NJuktqQ4E-1.woff2
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\s\outfit\v14\QGYvz_MVcBeNP4NJuktqQ4E-2.woff2
 Content Type: font/woff2
 
 Uri: https://framerusercontent.com/assets/1ZFS7N918ojhhd0nQWdj3jz4w.woff2
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\1ZFS7N918ojhhd0nQWdj3jz4w-1.woff2
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\1ZFS7N918ojhhd0nQWdj3jz4w-2.woff2
 Content Type: font/woff2
 
 Uri: https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\5vvr9Vy74if2I6bQbJvbw7SY1pQ-1.woff2
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\5vvr9Vy74if2I6bQbJvbw7SY1pQ-2.woff2
 Content Type: font/woff2
 
 Uri: https://framerusercontent.com/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\A0Wcc7NgXMjUuFdquHDrIZpzZw0-1.woff2
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\A0Wcc7NgXMjUuFdquHDrIZpzZw0-2.woff2
 Content Type: font/woff2
 
 Uri: https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\b6Y37FthZeALduNqHicBT6FutY-1.woff2
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\b6Y37FthZeALduNqHicBT6FutY-2.woff2
 Content Type: font/woff2
 
 Uri: https://framerusercontent.com/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\cRJyLNuTJR5jbyKzGi33wU9cqIQ-1.woff2
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\cRJyLNuTJR5jbyKzGi33wU9cqIQ-2.woff2
 Content Type: font/woff2
 
 Uri: https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\EOr0mi4hNtlgWNn9if640EZzXCo-1.woff2
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\EOr0mi4hNtlgWNn9if640EZzXCo-2.woff2
 Content Type: font/woff2
 
 Uri: https://framerusercontent.com/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\hyOgCu0Xnghbimh0pE8QTvtt2AU-1.woff2
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\hyOgCu0Xnghbimh0pE8QTvtt2AU-2.woff2
 Content Type: font/woff2
 
 Uri: https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\JeYwfuaPfZHQhEG8U5gtPDZ7WQ-1.woff2
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\JeYwfuaPfZHQhEG8U5gtPDZ7WQ-2.woff2
 Content Type: font/woff2
 
 Uri: https://framerusercontent.com/assets/lEJLP4R0yuCaMCjSXYHtJw72M.woff2
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\lEJLP4R0yuCaMCjSXYHtJw72M-1.woff2
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\lEJLP4R0yuCaMCjSXYHtJw72M-2.woff2
 Content Type: font/woff2
 
 Uri: https://framerusercontent.com/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\NeGmSOXrPBfEFIy5YZeHq17LEDA-1.woff2
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\NeGmSOXrPBfEFIy5YZeHq17LEDA-2.woff2
 Content Type: font/woff2
 
 Uri: https://framerusercontent.com/assets/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\oYaAX5himiTPYuN8vLWnqBbfD2s-1.woff2
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\oYaAX5himiTPYuN8vLWnqBbfD2s-2.woff2
 Content Type: font/woff2
 
 Uri: https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\OYrD2tBIBPvoJXiIHnLoOXnY9M-1.woff2
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\OYrD2tBIBPvoJXiIHnLoOXnY9M-2.woff2
 Content Type: font/woff2
 
 Uri: https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\vQyevYAyHtARFwPqUzQGpnDs-1.woff2
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\vQyevYAyHtARFwPqUzQGpnDs-2.woff2
 Content Type: font/woff2
 
 Uri: https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\Y9k9QrlZAqio88Klkmbd8VoMQc-1.woff2
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\assets\Y9k9QrlZAqio88Klkmbd8VoMQc-2.woff2
 Content Type: font/woff2
 
 Uri: https://framerusercontent.com/images/bU46oPb09rwagTDMoJKDcwEFX0k.png
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\images\bU46oPb09rwagTDMoJKDcwEFX0k-1.png
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\images\bU46oPb09rwagTDMoJKDcwEFX0k-2.png
 Content Type: image/png
 
 Uri: https://framerusercontent.com/images/OhBB1EQZKcpflthbNCBY1sUsoC8.png
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\images\OhBB1EQZKcpflthbNCBY1sUsoC8-1.png
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\images\OhBB1EQZKcpflthbNCBY1sUsoC8-2.png
 Content Type: image/png
 
 Uri: https://framerusercontent.com/images/ZwWiyLDyyI3l1cBuQhEIOhPboo.png
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\images\ZwWiyLDyyI3l1cBuQhEIOhPboo-1.png
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\images\ZwWiyLDyyI3l1cBuQhEIOhPboo-2.png
 Content Type: image/png
 
 Uri: https://framerusercontent.com/sites/5raVDHSj6bRiJX41i5fFDL/8Fdzia6FDc_jV8jThs2JxDparkpSS0juaOtSAiQgrr0.C7QM7JU2.mjs
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\8Fdzia6FDc_jV8jThs2JxDparkpSS0juaOtSAiQgrr0.C7QM7JU2.mjs
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\8Fdzia6FDc_jV8jThs2JxDparkpSS0juaOtSAiQgrr0.C7QM7JU2-1.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/5raVDHSj6bRiJX41i5fFDL/chunk-42U43NKG.mjs
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-42U43NKG-1.mjs
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-42U43NKG-2.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/5raVDHSj6bRiJX41i5fFDL/chunk-4AKJZEMT.mjs
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-4AKJZEMT.mjs
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-4AKJZEMT-1.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/5raVDHSj6bRiJX41i5fFDL/chunk-A3IIQ6X3.mjs
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-A3IIQ6X3-1.mjs
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-A3IIQ6X3-2.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/5raVDHSj6bRiJX41i5fFDL/chunk-HZL4YIMB.mjs
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-HZL4YIMB-1.mjs
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-HZL4YIMB-2.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/5raVDHSj6bRiJX41i5fFDL/chunk-NVTCJT73.mjs
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-NVTCJT73.mjs
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-NVTCJT73-1.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/5raVDHSj6bRiJX41i5fFDL/chunk-QGZCNXW5.mjs
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-QGZCNXW5.mjs
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-QGZCNXW5-1.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/5raVDHSj6bRiJX41i5fFDL/chunk-SX6E2MA6.mjs
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-SX6E2MA6.mjs
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-SX6E2MA6-1.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/5raVDHSj6bRiJX41i5fFDL/chunk-ZHA76YXC.mjs
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-ZHA76YXC.mjs
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-ZHA76YXC-1.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/5raVDHSj6bRiJX41i5fFDL/chunk-ZK6RUK2L.mjs
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-ZK6RUK2L.mjs
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\chunk-ZK6RUK2L-1.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/5raVDHSj6bRiJX41i5fFDL/script_main.MBN5M46E.mjs
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\script_main.MBN5M46E.mjs
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\script_main.MBN5M46E-1.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/5raVDHSj6bRiJX41i5fFDL/wo2hyRN5VDuYPrjzjLt9Nnd08wQxTTE_k75yfV3VUYg.VG7RIZVY.mjs
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\wo2hyRN5VDuYPrjzjLt9Nnd08wQxTTE_k75yfV3VUYg.VG7RIZVY.mjs
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\sites\5raVDHSj6bRiJX41i5fFDL\wo2hyRN5VDuYPrjzjLt9Nnd08wQxTTE_k75yfV3VUYg.VG7RIZVY-1.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT/7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6/KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY.woff2
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\third-party-assets\fontshare\wf\TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT\7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6\KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY-1.woff2
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\third-party-assets\fontshare\wf\TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT\7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6\KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY-2.woff2
 Content Type: application/octet-stream
 
 Uri: https://simplified-evolution-528160.framer.app/
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\index-1.htm
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\index-2.htm
 Content Type: text/html
 
 Uri: https://simplified-evolution-528160.framer.app/coming-soon
-File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\coming-soon-1.html
+File Name: C:\Downloaded Web Sites\simplified-evolution-528160.framer.app\coming-soon-2.html
 Content Type: text/html
 
