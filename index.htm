@@ -12783,7 +12783,18 @@
         </svg>
     </div>
     <!-- Start of bodyEnd -->
-
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          const button = document.querySelector('.framer-yZFOH.framer-1qnzeky.framer-v-1qnzeky');
+          if (button) {
+            button.addEventListener('click', function (e) {
+              e.preventDefault(); // если это кнопка формы — остановит отправку
+              alert("Thank you, we will contact you");
+            });
+          }
+        });
+      </script>
+      
     <!-- End of bodyEnd -->
 </body>
 
