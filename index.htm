@@ -12716,29 +12716,7 @@
                                         </div>
                                     </button></div>
                             </div>
-                            <script>
-                                window.addEventListener('DOMContentLoaded', function() {
-                                    var submitBtn = document.querySelector('button.framer-yZFOH.framer-1qnzeky.framer-v-1qnzeky[data-reset="button"]');
-                                    if (submitBtn) {
-                                        submitBtn.addEventListener('click', function(event) {
-                                            event.preventDefault();
-                                            var existingMsg = document.getElementById('thank-you-message');
-                                            if (!existingMsg) {
-                                                var msg = document.createElement('div');
-                                                msg.id = 'thank-you-message';
-                                                msg.textContent = 'Thank you! We will contact you.';
-                                                msg.style.marginTop = '20px';
-                                                msg.style.fontSize = '1.2em';
-                                                msg.style.color = '#512FEB';
-                                                msg.style.textAlign = 'center';
-                                                submitBtn.parentNode.insertBefore(msg, submitBtn.nextSibling);
-                                            } else {
-                                                existingMsg.style.display = 'block';
-                                            }
-                                        });
-                                    }
-                                });
-                                </script>
+                            
                         </form>
                     </div>
                     <div class="framer-11umto8" data-framer-name="BG">
